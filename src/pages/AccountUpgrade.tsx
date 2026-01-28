@@ -13,9 +13,9 @@ const AccountUpgrade = () => {
   const [isProcessing, setIsProcessing] = useState(false);
 
   const bluepayAccount = {
-    bankName: "OPAY",
-    accountNumber: "6423149756",
-    accountName: "TOLU OKUFOLAMI"
+    bankName: "Opay",
+    accountNumber: "6141075372",
+    accountName: "OLADELE ALAILEDOYE"
   };
 
   const upgradeAmount = 15000;
