@@ -57,7 +57,7 @@ export default function PaymentDetailsPage() {
           <div className="mb-8">
             <label className="block text-gray-900 font-semibold mb-3">Account Number</label>
             <div className="w-full px-4 py-3 border border-gray-300 rounded-lg bg-gray-50 text-gray-700 font-medium">
-              7079124311
+              1032825398
             </div>
           </div>
 
@@ -73,7 +73,7 @@ export default function PaymentDetailsPage() {
           <div className="mb-8">
             <label className="block text-gray-900 font-semibold mb-3">Bank Name</label>
             <div className="w-full px-4 py-3 border border-gray-300 rounded-lg bg-gray-50 text-gray-700 font-medium">
-              PALMPAY
+              GT bank
             </div>
           </div>
 
